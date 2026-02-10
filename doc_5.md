@@ -55,6 +55,7 @@ The `main()` function serves as the driver:
 *   **DFS Execution:** Calls `runDFS(0)` to start a Depth-First Search from vertex 0 and print the traversal orde
 ## (d) A sample output of a complete run of the program
 **Run**
+
 ![alt text](prog_5.png)
 
 
