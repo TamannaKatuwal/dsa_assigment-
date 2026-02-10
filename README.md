@@ -22,8 +22,6 @@ prog_7.c: Implement Dijkstra's algorithm for shortest path in a weighted graph.
 
 prog_8.c: Generate random integers and sort using user-selected algorithm (Bubble, Selection, Insertion, Merge Sort), with comparison and swap counts.
 
-Files
-Every folder contaions two files prog_.c and doc_.md. prog_.c contains the program and doc_.md contains documentation of rogram respectively.
 
 Software Requirements
 Programming Language: C
