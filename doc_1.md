@@ -43,10 +43,15 @@ The `main()` function shows the logic for checking balanced parentheses:
 
 ## (d) A sample output of a complete run of the program
 **Run 1**
+
 ![alt text](run1.png)
+
 **Run 2**
+
 ![alt text](run2.png)
+
 **Run 3**
+
 ![alt text](run3.png)
 
 
